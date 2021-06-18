@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 15 17:39:05 2021
 
-@author: ania
-"""
 import pandas as pd
 
 def Komunikat(tekst):
